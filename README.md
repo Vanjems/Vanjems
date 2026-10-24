@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Ivan James Estores 👋
+# Hi, I'm Ivan James Estores 
 
 ### Junior Full-Stack Developer · AI & Machine Learning
 
