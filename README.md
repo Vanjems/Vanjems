@@ -17,10 +17,10 @@
 
 ## 🧑‍💻 About me
 
-- 💼 **Junior Software Engineer at Juan Ally**, an AI business-partner platform, working across architecture, backend APIs and frontend interfaces.
-- 🎓 **B.S. Computer Science**, Notre Dame of Dadiangas University (2021–2025).
-- 🔭 Building **full-stack TypeScript apps** with Next.js, React and Node, and adding **AI features** (voice agents, workflow automation).
-- 📚 Strengths in **data analysis, machine learning and project management**; always sharpening system design and testing practices.
+- **Junior Software Engineer at Juan Ally**, an AI business-partner platform, working across architecture, backend APIs and frontend interfaces.
+- **B.S. Computer Science**, Notre Dame of Dadiangas University (2021–2025).
+- Building **full-stack TypeScript apps** with Next.js, React and Node, and adding **AI features** (voice agents, workflow automation).
+- Strengths in **data analysis, machine learning and project management**; always sharpening system design and testing practices.
 - 🌱 Currently learning more about scalable architecture and automated testing/CI.
 
 ## 💼 Experience
@@ -70,7 +70,7 @@ At Juan Ally I design application architecture for scalable web systems, build b
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **EBCON 52: Construction Material Monitoring** | Cloud-based, BOQ-integrated system that replaces manual paperwork for tracking material requests, deliveries, usage and approvals, with dashboards, alerts and reports. | React · Node/Express · TypeScript · npm-workspaces monorepo |
-| **Prepwise: AI Mock Interviews** | Interview-prep platform where users practise with an AI voice agent. [Live demo](https://ai-mock-interviews-five-lake.vercel.app) | Next.js · Vapi · Firebase · Tailwind |
+| **Vapi** | Interview-prep platform where users practise with an AI voice agent. [Live demo](https://ai-mock-interviews-five-lake.vercel.app) | Next.js · Vapi · Firebase · Tailwind |
 | **Nodebase: Workflow Automation** | Zapier-style platform for building and running custom workflows with triggers and actions. | Next.js · TypeScript · PostgreSQL |
 | **Personal Finance Tracker** | Full-stack app for tracking income and expenses. | Next.js · TypeScript · PostgreSQL |
 | **Bounce Battle** | 9:16 canvas auto-battler built to produce short-form video clips. | JavaScript · HTML Canvas |
