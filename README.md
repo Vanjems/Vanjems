@@ -49,12 +49,14 @@ At Juan Ally I design application architecture for scalable web systems, build b
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
 
 **Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white)
 
@@ -67,15 +69,16 @@ At Juan Ally I design application architecture for scalable web systems, build b
 
 ## 🚀 Featured projects
 
-| Project | What it does | Stack |
+| Project | What it is | Stack |
 | --- | --- | --- |
-| **EBCON 52: Construction Material Monitoring** | Cloud-based, BOQ-integrated system that replaces manual paperwork for tracking material requests, deliveries, usage and approvals, with dashboards, alerts and reports. | React · Node/Express · TypeScript · npm-workspaces monorepo |
-| **Vapi** | Interview-prep platform where users practise with an AI voice agent. [Live demo](https://ai-mock-interviews-five-lake.vercel.app) | Next.js · Vapi · Firebase · Tailwind |
-| **Nodebase: Workflow Automation** | Zapier-style platform for building and running custom workflows with triggers and actions. | Next.js · TypeScript · PostgreSQL |
-| **Personal Finance Tracker** | Full-stack app for tracking income and expenses. | Next.js · TypeScript · PostgreSQL |
+| **JuanAlly** · [landing page](https://pos-ai-landingpage-ebon.vercel.app) | AI business-partner platform with a full-stack point-of-sale at its core. I work across architecture, backend APIs and the frontend (600+ commits). | React · Vite · TypeScript · Node · PostgreSQL · pnpm monorepo |
+| **ChatToFlow** · [live app](https://nodebase-six.vercel.app) · [landing page](https://chattoflow-landingpage.vercel.app) | Zapier-style workflow-automation platform: users build and run custom workflows with triggers and actions (450+ commits). | Next.js · TypeScript · PostgreSQL |
+| **Merky** | Always-on-screen desktop avatar companion for Claude Code and browser AI tools, driven by agents over MCP and a local HTTP bridge. | Electron · JavaScript · MCP |
+| **[Specwright](https://github.com/Kave-Blocks/specwright)** | Interactive system-architecture builder (open source). | Next.js · TypeScript |
+| **JobFndr** | Job-search platform. | Next.js · TypeScript · Tailwind · shadcn/ui |
+| **PH Monitor** | Monitoring dashboard with server-side staging, review and publish, plus LLM agents that discover, extract and propose data. | TypeScript · Gemini · Ollama |
+| **EBCON 52: Construction Material Monitoring** | Cloud-based, BOQ-integrated system that replaces manual paperwork for tracking material requests, deliveries, usage and approvals, with dashboards and alerts. | React · Node/Express · TypeScript monorepo |
 | **Bounce Battle** | 9:16 canvas auto-battler built to produce short-form video clips. | JavaScript · HTML Canvas |
-| **[Rubik's Cube in Processing](https://github.com/Vanjems/Processing-RubrikCube)** | Interactive 3D cube, with an AI solver as the next step. | Processing |
-| **OS Scheduling Lab** | FCFS, SJF (preemptive and non-preemptive) and Round Robin with priority queues. | Python |
 
 ### 🌐 More live work
 
@@ -84,12 +87,10 @@ At Juan Ally I design application architecture for scalable web systems, build b
 | AIX Pecado, landing page | [aix-pecado.vercel.app](https://aix-pecado.vercel.app) |
 | AIX Emrld, landing page | [aix-emrld-landingpage.vercel.app](https://aix-emrld-landingpage.vercel.app) |
 | Portfolio site built for a client | [markdavemanansala-portfolio.vercel.app](https://markdavemanansala-portfolio.vercel.app) |
-| [Emrld landing page](https://github.com/Vanjems/emrld-landingpage) | Open source, TypeScript |
-| [Job Listing App](https://github.com/Vanjems/JobListingApp) | Open source, JavaScript |
+| Prepwise, AI mock interviews (practice project) | [ai-mock-interviews-five-lake.vercel.app](https://ai-mock-interviews-five-lake.vercel.app) |
+| [Rubik's Cube in Processing](https://github.com/Vanjems/Processing-RubrikCube) | Open source, with an AI solver planned |
 
-Also built: **GymLab** (PHP/JavaScript/SCSS gym site), **Digital Marketing Agency** site, and **POS AI**.
-
-> Source for many of these is in private repos (client or academic work), so I link live demos wherever they exist. Happy to walk through the code and architecture in an interview.
+> Most of this work lives in private team and company repos (Kave Blocks, ChatToFlow-AI, and others), so I link live demos wherever they exist. Happy to walk through the code and architecture in an interview.
 
 ## 📊 GitHub stats
 
